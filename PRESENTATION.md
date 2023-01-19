@@ -18,6 +18,7 @@ color: #ffffff
 
 # Slide settings
 paginate: true
+math: true
 
 ---
 
@@ -75,6 +76,7 @@ Reflexion über das Portfoliomodul
 - Struktur bereits vorgegeben, deswegen schneller als PowerPoint
 - Export als PDF, HTML, PPTX, etc.
 - Markdown Dateien auch ohne Editor lesbar
+- $\LaTeX$ Support
 
 ---
 
